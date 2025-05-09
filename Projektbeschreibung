@@ -1,0 +1,27 @@
+# 🖥️ Windows Server & Active Directory Setup (Demo-Projekt)
+
+## Übersicht
+In diesem Projekt zeige ich exemplarisch die Einrichtung und Konfiguration einer einfachen Active Directory (AD)-Struktur unter Windows Server. Ziel ist es, typische Aufgaben eines IT-Administrators in einer Lab-Umgebung zu dokumentieren.
+
+## 🔍 Inhalte
+- Installation und Konfiguration von Windows Server
+- Einrichtung von Active Directory-Domänendiensten (AD DS)
+- Anlegen von Benutzern, Gruppen und OUs
+- Einrichtung von Gruppenrichtlinien (GPOs)
+- Remote-Desktop-Freigabe & Benutzerrechte
+- Dokumentation von PowerShell-Befehlen
+
+## 🧪 Tools
+- Windows Server 2019 (VMware Workstation)
+- PowerShell
+- GPO Editor
+- Benutzerverwaltung (Active Directory Users and Computers)
+
+## 🧠 Zielgruppe
+IT-Einsteiger, Azubis im Bereich Systemintegration, Admins im HomeLab
+
+## 📸 Screenshots
+*(Hier kannst du Screenshots von deiner AD-Konfiguration oder den Serverrollen einfügen)*
+
+## 👨‍💻 Autor
+Monaf Alhalbi – IT-Systemtechniker & Elektroingenieur
