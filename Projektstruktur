@@ -1,0 +1,10 @@
+windows-server-ad-setup-demo/
+├── README.md
+├── Screenshots/
+│   ├── ad_users.png
+│   ├── gpo_example.png
+├── PowerShell/
+│   ├── create_users.ps1
+│   └── enable-rdp.ps1
+└── Doku/
+    └── Setup-Anleitung.pdf
