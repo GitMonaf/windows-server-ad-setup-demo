@@ -1,0 +1,25 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell / Scripts
+*.ps1~
+*.log
+*.bak
+
+# Visual Studio Code workspace files
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Mac (falls du Dateien von macOS kopierst)
+.DS_Store
+
+# Backup files
+*.old
+*.orig
